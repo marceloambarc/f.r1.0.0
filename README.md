@@ -44,6 +44,6 @@ Rememberm you need to have account on [Figma](http://figma.com/).
 - [Layout Web](Under Construction)
 - [Layout Mobile](Under Construction)
 
-## :memo: Licença
+## :memo: License
 
 Under MIT license.[LICENSE](LICENSE.md).
